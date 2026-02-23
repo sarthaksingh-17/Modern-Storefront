@@ -1,0 +1,14 @@
+*{
+color: white;
+}
+#navbar{
+  height: 60px;
+  background-color: black;
+  
+}
+button{
+  background-color: pink;
+}
+ a{
+  margin: 200px;
+ }

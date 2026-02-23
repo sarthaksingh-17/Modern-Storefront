@@ -1,0 +1,29 @@
+*{
+    font-family:  'Times New Roman';
+}
+h1{ 
+    background-color: pink;
+}
+#box {
+    background-color: brown;
+}
+ .heading{
+    background-color: red;
+ }
+ button{
+    background-color: green;
+ }
+ h1{
+    text-align: center;
+ }
+    h1{
+        text-transform: capitalize;
+        
+    }
+    #outer{
+           font-size: 25px;
+    }
+    #inner{
+        font-size: 10px;
+    }
+    
